@@ -1,5 +1,5 @@
 Copyright Barchart.com, Inc., http://www.barchart.com/
-
+hi
 This software consists of voluntary contributions made by many
 individuals. For exact contribution history, see the revision history
 available at https://github.com/barchart/marketdata-api-js
